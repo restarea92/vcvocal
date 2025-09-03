@@ -1,7 +1,7 @@
 title: vcvocal
 description: vcvocal 프로젝트의 마크다운 렌더링을 위한 GitHub Pages 설정
-theme: minima
-markdown: kramdown
-repository: restarea92/vcvocal
+markdown: GFM
 lang: ko-KR
+
 author: restarea92
+# repository는 보통 필요 없음 (GitHub Pages가 자동 인식)
