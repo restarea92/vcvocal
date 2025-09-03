@@ -1,6 +1,23 @@
-title: vcvocal
-description: vcvocal 프로젝트의 마크다운 렌더링을 위한 GitHub Pages 설정
-markdown: gfm
-lang: ko-KR
+title: VC Vocal
+repository: restarea92/vcvocal
+description: A sample site for VC Vocal project
 
-author: restarea92
+markdown: GFM
+
+plugins:
+  - jekyll-gfm-admonitions
+  - jekyll-optional-front-matter
+
+exclude:
+  - "**/*.ts"
+  - "**/*.js"
+  - "*.ts"
+  - "*.js"
+  - "*.json"
+  - node_modules/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
