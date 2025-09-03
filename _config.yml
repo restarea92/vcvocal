@@ -3,6 +3,9 @@ title: 보컬 온라인 레슨 구독 소개 페이지 기획
 repository: restarea92/vcvocal
 description: >-
   A description of your project
+  
+url: "https://restarea92.github.io"
+baseurl: "/vcvocal"
 
 markdown: GFM 
 plugins:
