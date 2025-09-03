@@ -1,6 +1,6 @@
 title: vcvocal
 description: vcvocal 프로젝트의 마크다운 렌더링을 위한 GitHub Pages 설정
-markdown: GFM
+markdown: gfm
 lang: ko-KR
 
 author: restarea92
